@@ -8,16 +8,14 @@ This project implements a simple command-line login system in Python. It allows 
 - Display Details: Users can view their details after logging in.
 - Logout: Users can logout to end their session.
 
-## How to Use:
+## Installation
+
+To run this project locally, you need to have Python installed on your system. Clone this repository and run the `login_system.py` file using Python.
+
+## Usage:
 1. Clone the repository to your local machine.
 2. Run the `login_system.py` file.
 3. Follow the prompts to register, login, view details, and logout.
-
-## Usage:
-
-1. Run the `login_system.py` file.
-2. Choose an option from the menu.
-3. Follow the prompts to register, login, display details, or logout.
 
 
 ## Contributing
